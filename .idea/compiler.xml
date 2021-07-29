@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="grpc-service" />
         <module name="grpc-server" />
         <module name="grpc-client" />
       </profile>
@@ -13,6 +14,7 @@
     <bytecodeTargetLevel>
       <module name="grpc-client" target="15" />
       <module name="grpc-server" target="15" />
+      <module name="grpc-service" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>

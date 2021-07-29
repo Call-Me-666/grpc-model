@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/grpc-client/grpc-client.iml" filepath="$PROJECT_DIR$/grpc-client/grpc-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/grpc-model.iml" filepath="$PROJECT_DIR$/grpc-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/grpc-server/grpc-server.iml" filepath="$PROJECT_DIR$/grpc-server/grpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-service/grpc-service.iml" filepath="$PROJECT_DIR$/grpc-service/grpc-service.iml" />
     </modules>
   </component>
 </project>
